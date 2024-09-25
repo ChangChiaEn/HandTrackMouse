@@ -1,4 +1,4 @@
-# Hand Gesture Mouse Control
+# Hand Track Mouse Control
 
 This project allows you to control the mouse pointer using hand gestures detected through a webcam. It uses MediaPipe for hand tracking and PyAutoGUI for mouse control, making it possible to move the cursor and trigger clicks without a physical mouse.
 
